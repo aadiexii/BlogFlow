@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Build / cache
+dist/
+.wrangler/
+*.tsbuildinfo
+
+# Env and secrets (never commit)
+.env
+.env.*
+!.env.example
+.dev.vars
+!.dev.vars.example
+
+# OS / editor
+.DS_Store
+Thumbs.db

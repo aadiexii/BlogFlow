@@ -1,0 +1,4 @@
+# Copy to .dev.vars (do not commit .dev.vars).
+# DATABASE_URL must be your Prisma Accelerate URL (prisma://...) for the Worker runtime.
+DATABASE_URL=""
+JWT_SECRET=""

@@ -1,0 +1,4 @@
+name = "backend"
+compatibility_date = "2023-12-01"
+
+# Local dev: create .dev.vars (see .dev.vars.example). Wrangler loads it automatically; do not commit .dev.vars.
